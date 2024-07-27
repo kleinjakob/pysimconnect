@@ -1,5 +1,4 @@
 import typer
-from . import _typerpatch
 import json
 from typing import List, Optional
 from textwrap import fill
